@@ -12,6 +12,6 @@ public class GitTest {
         System.out.println("再一次更新代码  你好");
         System.out.println("idea 推送  提交代码");
 
-
+        System.out.println("你好");
     }
 }
